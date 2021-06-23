@@ -1,0 +1,11 @@
+.horizontal-vertical-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.full-justified{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
